@@ -1,7 +1,19 @@
 # php-calculator
 
-Yksinkertainen php-laskin, jossa harjoiteltu:
--Syötteiden tarkistuksia (filter_input, is_numeric)
--Turvallista tulostusta (htmlspecialchars)
+Yksinkertainen selainpohjainen php-laskin.
 
-Desimaaliluvut sallituja, sekä tarkistaa että syötteet eivät ole tyhjiä ja ovat numeraalisia.
+## Ominaisuudet
+
+-Laskee yksinkertaiset laskutoimitukset, summa, erotus, jako ja kertolaskut.
+
+-Syotteiden tarkistukset, onko syote tyhja ja tarkistaa ovathan syotteet numeraalisia.
+
+-Sallii desimaaliluvut.
+
+## Teknologiat
+
+-HTML, CSS & PHP.
+
+## Käyttö
+
+- Syota kenttiin arvot, valitse laskutoimitus ja paina laske.
